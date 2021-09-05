@@ -1,6 +1,6 @@
 # YouTube-Parser
 
-A python parser that helps you track the weather in the city you need.
+A python parser that will help you get the last 10 videos for your query.
 
 ## Installation Instructions
 
